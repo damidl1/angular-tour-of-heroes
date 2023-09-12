@@ -1,0 +1,1 @@
+per generare singolo file : ng g i hero
